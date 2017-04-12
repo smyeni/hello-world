@@ -2,7 +2,7 @@
 smyeni's first Git repo
 
 This is a bit about myself.
-I'm a citizen of South Africa, KZN province.  
+I'm a citizen of South Africa, KZN Province (East coast).
 
 I live and work in Gauteng (GP).
 Fav cities: Dbn, Cape Town, Johannesburg & Pta
